@@ -1,4 +1,4 @@
-import crel from "crel"
+import crel from "crel-es5"
 import {Plugin} from "prosemirror-state"
 
 import {renderGrouped} from "./menu"

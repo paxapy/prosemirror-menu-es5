@@ -1,4 +1,4 @@
-import crel from "crel"
+import crel from "crel-es5"
 import {lift, joinUp, selectParentNode, wrapIn, setBlockType} from "prosemirror-commands"
 import {undo, redo} from "prosemirror-history"
 

@@ -1,7 +1,7 @@
 {
-  "name": "prosemirror-menu",
-  "version": "1.1.2",
-  "description": "Simple menu elements for ProseMirror",
+  "name": "prosemirror-menu-es5",
+  "version": "1.1.3",
+  "description": "Simple menu elements for ProseMirror with es5 support",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "style": "style/menu.css",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/prosemirror/prosemirror-menu.git"
+    "url": "git://github.com/paxapy/prosemirror-menu-es5.git"
   },
   "dependencies": {
-    "crel": "^3.1.0",
+    "crel-es5": "^4.2.1",
     "prosemirror-state": "^1.0.0",
     "prosemirror-commands": "^1.0.0",
     "prosemirror-history": "^1.0.0"
